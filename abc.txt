@@ -3,3 +3,5 @@ How are you?
 Lets learn some concepts of machine learning.
 Linear regression
 Logistic regression
+k neighbour
+k means clustering
