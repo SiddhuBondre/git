@@ -7,3 +7,5 @@ k neighbour
 k means clustering
 reinforcement
 Global minima
+RNN
+CNN
