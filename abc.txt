@@ -9,3 +9,5 @@ reinforcement
 Global minima
 RNN
 CNN
+ANN
+POWER BI
