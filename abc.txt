@@ -5,3 +5,5 @@ Linear regression
 Logistic regression
 k neighbour
 k means clustering
+reinforcement
+Global minima
