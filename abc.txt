@@ -2,12 +2,8 @@ Hello everyone
 How are you?
 Lets learn some concepts of machine learning.
 Linear regression
-Logistic regression
-k neighbour
+Logistic regression 
+k neighbours
 k means clustering
-reinforcement
-Global minima
-RNN
-CNN
-ANN
-POWER BI
+global minima
+power bi
