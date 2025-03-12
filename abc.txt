@@ -7,3 +7,8 @@ k neighbours
 k means clustering
 global minima
 power bi
+RNN
+CNN
+decision tree
+random forest
+Bagging 
